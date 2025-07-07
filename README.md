@@ -1,1 +1,1 @@
-# odin-recipes
+A consolidation of my current learnings from The Odin Project, creating a small website to consolidate my knowledge of rudimentary html.
